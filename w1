@@ -1,3 +1,6 @@
 include("w1")
 
 //neuer Kommentar
+
+echo "wawawa"
+exit 0;
