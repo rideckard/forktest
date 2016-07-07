@@ -1,2 +1,4 @@
 echo "time"
 //-------------------
+
+echo "passes"
